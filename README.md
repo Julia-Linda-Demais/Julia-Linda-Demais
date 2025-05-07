@@ -1,5 +1,5 @@
 ## Olá, seja bem vindo(a) ao meu perfil!💐
-- 🎓 Estou no final do meu primeiro ano cursando Desenvolvimento de sistemas
+- 🎓 Estou no primeiro semestre do segundo ano cursando Desenvolvimento de sistemas
 ##
 editando..
 
