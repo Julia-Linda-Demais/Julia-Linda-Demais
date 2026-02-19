@@ -3,7 +3,7 @@
 - 🎓 Estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas – ETEC (Em formação)
 - 🧪 Técnico em Química [2/3]
 - 💻 Foco em Desenvolvimento Back-end
-- 🚀 17 anos |
+- 🚀 17 anos | Em busca de novos conhecimentos
 
 ---
 
@@ -44,6 +44,14 @@ Atualmente busco minha primeira oportunidade de estágio para aplicar meus conhe
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
+### ⚒ Demais ferramentas utilizadas
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=autodesk&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
 ---
 
 ## 🎯 Objetivo Profissional
@@ -68,7 +76,7 @@ Tenho grande interesse em:
 
 ---
 
-🌐 Meu Currículo / Portfólio
+## 🌐 Meu Currículo / Portfólio
 
 🔗 Currículo Online:
 (em edição..)
