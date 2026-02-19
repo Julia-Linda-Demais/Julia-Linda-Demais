@@ -1,9 +1,9 @@
 # 👋 Olá! Eu sou Julia. Seja bem-vindo(a) ao meu perfil! 💐
 
-🎓 Estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas – ETEC (Em formação)
-🧪 Técnico em Química [2/3]
-💻 Foco em Desenvolvimento Back-end
-🚀 17 anos |
+- 🎓 Estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas – ETEC (Em formação)
+- 🧪 Técnico em Química [2/3]
+- 💻 Foco em Desenvolvimento Back-end
+- 🚀 17 anos |
 
 ---
 
@@ -16,6 +16,8 @@ Tenho forte base em lógica de programação, estrutura de dados e banco de dado
 Também curso Técnico em Química, o que fortalece meu raciocínio, organização, pensamento analítico e responsabilidade.
 
 Atualmente busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na prática, aprender com profissionais experientes e evoluir como desenvolvedora.
+
+(Para mais informações sobre minhas formações, acesse meu currículo logo abaixo)
 
 ---
 
@@ -81,5 +83,3 @@ Tenho grande interesse em:
 * Email: juliarodriguesprofissional@outlook.com
 
 ---
-
-⭐ Sempre aprendendo, evoluindo e buscando novos desafios.
