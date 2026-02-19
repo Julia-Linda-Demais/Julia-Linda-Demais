@@ -81,7 +81,7 @@ Tenho grande interesse em:
 🔗 Currículo Online:
 (em edição..)
 
-(Em breve este site será meu portfólio completo com projetos e experiências.)
+(Em breve o link deste site será meu portfólio completo com projetos e experiências.)
 
 ---
 
