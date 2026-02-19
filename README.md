@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Julia. Seja bem-vindo(a) ao meu perfil! 💐
+# 👋🏻 Olá! Eu sou Julia. Seja bem-vindo(a) ao meu perfil! 💐
 
 - 🎓 Estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas – ETEC (Em formação)
 - 🧪 Técnico em Química [2/3]
