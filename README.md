@@ -73,6 +73,7 @@ Tenho grande interesse em:
 * Segurança de sistemas da informação e seus protocolos
 * Planejamento e documentação
 * Qualidade e teste de software
+* Desenvolvimento de aplicativos mobile
 
 ---
 
