@@ -1,9 +1,9 @@
 # 👋🏻 Olá! Eu sou Julia. Seja bem-vindo(a) ao meu perfil! 💐
 
 - 🎓 Estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas – ETEC (Em formação)
-- 🧪 Técnico em Química [2/3]
+- 🧪 Técnico em Química [3/3]
 - 💻 Foco em Desenvolvimento Back-end
-- 🚀 17 anos | Em busca de novos conhecimentos tecnológicos
+- 🚀 18 anos | Em busca de novos conhecimentos tecnológicos
 
 ---
 
