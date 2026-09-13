@@ -3,7 +3,7 @@
 - 🎓 Estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas – ETEC (Em formação)
 - 🧪 Técnico em Química [3/3]
 - 💻 Foco em Desenvolvimento Back-end
-- 🚀 18 anos | Em busca de novos conhecimentos tecnológicos
+- 🚀 Em busca de novos conhecimentos tecnológicos
 
 ---
 
